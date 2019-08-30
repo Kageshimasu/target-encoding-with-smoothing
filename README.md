@@ -1,4 +1,4 @@
-# TargetEncodingWithSmoothing
+# TargetEncoding with Smoothing
 TargetEncodingとSmoothingを多分類対応で行います。
 
 # 実装例
